@@ -9,9 +9,8 @@ QA Engineer who is passionate about **automation testing**, **DevOps**, and impr
 
 🌱 **Always Learning:** Expanding my expertise in GitHub workflows and advanced testing techniques.
 
-✨ "Quality isn't just a step, it's an ongoing commitment!"
-
 <!--
+✨ "Quality isn't just a step, it's an ongoing commitment!"
 **moonvi/moonvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
